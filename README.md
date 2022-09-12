@@ -1,6 +1,6 @@
-# XAI-backup
+# XAI
 
-This repository contains the implementation for the following papers
+This repository contains the implementation for the following paper
 
 
 > [A Rigorous Study of Integrated Gradients Method and Extensions to Internal
