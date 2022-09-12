@@ -1,4 +1,4 @@
-# XAI
+# Image-patch-neuron-attribution
 
 This repository contains the implementation for the following paper
 
