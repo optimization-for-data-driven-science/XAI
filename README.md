@@ -1,4 +1,4 @@
-# Image-patch-neuron-attribution
+# IPNA: Image patch neuron attribution
 
 This repository contains the implementation for the following paper
 
